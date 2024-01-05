@@ -50,9 +50,9 @@ An undergraduate student in Computer Science with a focus on Artificial Intellig
 
 📧 I'm always open to collaboration and new opportunities. Feel free to reach out to me:
 
-- Email: nisar.ahmed@example.com
-- LinkedIn: [Nisar Ahmed](#)
-- Twitter: [@nisarahmed_dev](#)
+- Email: nisarahmed7706@gmail.com
+- LinkedIn: www.linkedin.com/in/nisar-ahmed-24303670qwea
+- Twitter: https://twitter.com/Nisar_243
 
 #### Let's Connect and Code Together!
 
