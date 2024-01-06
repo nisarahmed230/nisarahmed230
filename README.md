@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 
 
-## Hey, I'm Nisar! 👋
+## Hey, I'm Nisar! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">
 
-An undergraduate student in Computer Science with a focus on Artificial Intelligence and Machine Learning. 🎓 I'm currently pursuing my bachelor's degree in Computer Science, specializing in AI & ML. I've delved into the fascinating world of machine learning through my college curriculum, where I've gained valuable insights and skills.
+<i>An undergraduate student in Computer Science with a focus on Artificial Intelligence and Machine Learning. 🎓 I'm currently pursuing my bachelor's degree in Computer Science, specializing in AI & ML. I've delved into the fascinating world of machine learning through my college curriculum, where I've gained valuable insights and skills.
 
-💻 Apart from my academic journey, I have a keen interest in web development. I began my web development journey by learning HTML, CSS, and JavaScript. Currently, I'm honing my skills in ReactJS to create dynamic and modern web applications.
+💻 Apart from my academic journey, I have a keen interest in web development. I began my web development journey by learning HTML, CSS, and JavaScript. Currently, I'm honing my skills in ReactJS to create dynamic and modern web applications.</i>
 
 #### Interests
 
@@ -32,12 +32,12 @@ An undergraduate student in Computer Science with a focus on Artificial Intellig
 
 1. **Project ML Explorer**
    - A machine learning project exploring different algorithms and techniques.
-   - Yet to add
+   - Yet to add--------
 
 2. **Portfolio Website**
    - My personal website showcasing my skills, projects, and achievements.
-   - On Progress
-
+   - On Progress---------
+   
 #### Skills
 
 🛠️ Here are some of the skills and technologies I'm familiar with:
@@ -50,9 +50,11 @@ An undergraduate student in Computer Science with a focus on Artificial Intellig
 
 📧 I'm always open to collaboration and new opportunities. Feel free to reach out to me:
 
-- Email: nisarahmed7706@gmail.com
-- LinkedIn: www.linkedin.com/in/nisar-ahmed-24303670qwea
-- Twitter: https://twitter.com/Nisar_243
+[![Twitter Follow](https://img.shields.io/twitter/follow/Nisar_243?&style=social)](https://twitter.com/intent/user?screen_name=Nisar_243 "Twitter")
+[![GitHub Followers](https://img.shields.io/github/followers/nisarahmed230?label=Follow%20Me%21&style=social&link=https://github.com/nisarahmed230 "Go to GitHub")](https://github.com/nisarahmed230)
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nisar-ahmed-24303670qwea)](https://www.linkedin.com/in/nisar-ahmed-24303670qwea "Let's get into LinkedIn")
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:nisarahmed3024@gmail.com)](mailto:nisarahmed3024@gmail.com "Contact Me")
 
 #### Let's Connect and Code Together!
 
