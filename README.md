@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Hey, I'm Nisar! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">
+## Hey, I'm Nisar! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> 👨🏻‍💻
 
 <i>An undergraduate student in Computer Science with a focus on Artificial Intelligence and Machine Learning. 🎓 I'm currently pursuing my bachelor's degree in Computer Science, specializing in AI & ML. I've delved into the fascinating world of machine learning through my college curriculum, where I've gained valuable insights and skills.
 
